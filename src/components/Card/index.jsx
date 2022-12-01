@@ -28,4 +28,3 @@ const Card = () => {
   )
 }
 export {Card} 
-//
